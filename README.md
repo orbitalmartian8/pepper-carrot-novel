@@ -10,4 +10,12 @@ In the wonderful world of Hereva, the young Pepper lives with her cat Carrot in 
 With Pepper and Carrot, David Revoy originally developed a free, free and open-source webcomic, funded directly by his readers on the principle of patronage.
 
 ## License
+
 This works is Licensed under the [Creative Commons Attribution 4.0 International Public License](https://github.com/LinuxGamer/pepper-carrot-novel/blob/main/LICENSE)
+
+**Attribution:**  
+David Revoy, www.peppercarrot.com
+
+**Hereva worldbuilding:**  
+Creation: David Revoy.  
+Writers: Craig Maloney, Nicolas Artance, Scribblemaniac, Valvin.  
